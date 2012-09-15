@@ -7,3 +7,4 @@ priv
 *.dump
 ebin
 *.erl~
+log
